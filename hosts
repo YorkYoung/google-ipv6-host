@@ -27,23 +27,23 @@
 #site: https://github.com/YorkYoung/google-ipv6-host/
 
 #Google ipv6
-2404:6800:4005:801::1011	www.google.com
-2404:6800:4008:c03::c7		www.google.com.hk
-2404:6800:4005:802::1001	play.google.com
-2404:6800:4005:807::1015	mail.google.com
-2404:6800:4005:806::100f	new.google.com.hk
-2404:6800:4005:806::1007	chrome.google.com
-2404:6800:4005:804::1000	keep.google.com
-2404:6800:4005:807::1018	translate.google.com.hk
-2404:6800:4005:803::100e	code.google.com
-2404:6800:4008:c02::64		groups.google.com
-2404:6800:4005:806::1006	plus.google.com
-2404:6800:4005:803::1005	www.youtubu.com
+2404:6800:4005:801::1011  www.google.com
+2404:6800:4008:c03::c7    www.google.com.hk
+2404:6800:4005:802::1001  play.google.com
+2404:6800:4005:807::1015  mail.google.com
+2404:6800:4005:806::100f  new.google.com.hk
+2404:6800:4005:806::1007  chrome.google.com
+2404:6800:4005:804::1000  keep.google.com
+2404:6800:4005:807::1018  translate.google.com.hk
+2404:6800:4005:803::100e  code.google.com
+2404:6800:4008:c02::64    groups.google.com
+2404:6800:4005:806::1006  plus.google.com
+2404:6800:4005:803::1005  www.youtubu.com
 
 #Wiki ipv6
-2620:0:861:ed1a::1 		www.wikipedia.org
-2620:0:861:ed1a::1 		zh.wikipedia.org
-2620:0:861:ed1a::1 		en.wikipedia.org
+2620:0:861:ed1a::1   www.wikipedia.org
+2620:0:861:ed1a::1   zh.wikipedia.org
+2620:0:861:ed1a::1   en.wikipedia.org
 
 #Microsoft OneDrive
 134.170.108.154     onedrive.live.com
