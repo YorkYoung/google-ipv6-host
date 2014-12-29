@@ -39,6 +39,7 @@
 2404:6800:4008:c02::64    groups.google.com
 2404:6800:4005:806::1006  plus.google.com
 2404:6800:4005:803::1005  www.youtubu.com
+2404:6800:4008:c05::8d    golang.org
 
 #Wiki ipv6
 2620:0:861:ed1a::1   www.wikipedia.org
