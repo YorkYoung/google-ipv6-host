@@ -1,0 +1,53 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+#author: York Young
+#email: osyxz2011@gmail.com
+#license: GPL v3.0
+#version: 1.0
+#site: https://github.com/YorkYoung/google-ipv6-host/
+
+#Google ipv6
+2404:6800:4005:801::1011	www.google.com
+2404:6800:4008:c03::c7		www.google.com.hk
+2404:6800:4005:802::1001	play.google.com
+2404:6800:4005:807::1015	mail.google.com
+2404:6800:4005:806::100f	new.google.com.hk
+2404:6800:4005:806::1007	chrome.google.com
+2404:6800:4005:804::1000	keep.google.com
+2404:6800:4005:807::1018	translate.google.com.hk
+2404:6800:4005:803::100e	code.google.com
+2404:6800:4008:c02::64		groups.google.com
+2404:6800:4005:806::1006	plus.google.com
+2404:6800:4005:803::1005	www.youtubu.com
+
+#Wiki ipv6
+2620:0:861:ed1a::1 		www.wikipedia.org
+2620:0:861:ed1a::1 		zh.wikipedia.org
+2620:0:861:ed1a::1 		en.wikipedia.org
+
+#Microsoft OneDrive
+134.170.108.154			onedrive.live.com
+134.170.104.90			onedrive.live.com
+134.170.107.154     onedrive.live.com
+134.170.108.26			onedrive.live.com
+134.170.107.26			onedrive.live.com
